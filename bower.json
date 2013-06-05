@@ -1,0 +1,7 @@
+{
+  "name": "bower-prelude-ls",
+  "version": "1.0.0",
+  "main": "./prelude-browser-min.js",
+  "dependencies": {
+  }
+}
